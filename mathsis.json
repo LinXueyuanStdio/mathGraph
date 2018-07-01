@@ -1,0 +1,165 @@
+{
+    "links": [{
+        "source": 0,
+        "target": 1,
+        "value": 10
+    }, {
+        "source": 0,
+        "target": 2,
+        "value": 10
+    }, {
+        "source": 3,
+        "target": 4,
+        "value": 10
+    }, {
+        "source": 4,
+        "target": 5,
+        "value": 10
+    }, {
+        "source": 4,
+        "target": 6,
+        "value": 10
+    }, {
+        "source": 6,
+        "target": 7,
+        "value": 10
+    }, {
+        "source": 5,
+        "target": 8,
+        "value": 10
+    }, {
+        "source": 8,
+        "target": 9,
+        "value": 10
+    }, {
+        "source": 0,
+        "target": 8,
+        "value": 10
+    }],
+    "nodes": [{
+            "id": "Lebesgue控制收敛定理",
+            "name": "Lebesgue控制收敛定理",
+            "description": "定理叙述",
+            "profIds": ["Lebesgue控制收敛定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "thsis",
+            "rawScore": 0,
+            "score": 0.5,
+            "size": 3,
+            "type": "circle"
+        },
+        {
+            "id": "Lebesgue控制收敛定理的证明1",
+            "name": "方法名",
+            "profDetail": "定理详细证明",
+            "needThsisId": [],
+            "who": "belong to whom",
+            "level": "prof",
+            "rawScore": -20,
+            "score": -0.5,
+            "size": 3,
+            "type": "square"
+        }, {
+            "id": "Lebesgue控制收敛定理的证明2",
+            "name": "方法名",
+            "profDetail": "定理详细证明",
+            "needThsisId": [],
+            "who": "belong to whom",
+            "level": "prof",
+            "rawScore": -20,
+            "score": -0.5,
+            "size": 3,
+            "type": "square"
+        },
+
+        {
+            "id": "非负可测简单函数",
+            "name": "非负可测简单函数",
+            "description": "定理叙述",
+            "profIds": ["Lebesgue控制收敛定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "definition",
+            "rawScore": 20,
+            "score": 0.5,
+            "size": 3,
+            "type": "diamond"
+        },
+        {
+            "id": "非负可测函数",
+            "name": "非负可测函数",
+            "description": "定理叙述",
+            "profIds": ["Lebesgue控制收敛定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "definition",
+            "rawScore": 20,
+            "score": 0.5,
+            "size": 3,
+            "type": "diamond"
+        }, {
+            "id": "可测函数",
+            "name": "一般可测函数",
+            "description": "定理叙述",
+            "profIds": ["Lebesgue控制收敛定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "definition",
+            "rawScore": 20,
+            "score": 0.5,
+            "size": 3,
+            "type": "diamond"
+        },{
+            "id": "Fatou定理",
+            "name": "Fatou定理",
+            "description": "定理叙述",
+            "profIds": ["Fatou定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "thsis",
+            "rawScore": 0,
+            "score": 0.5,
+            "size": 3,
+            "type": "circle"
+        },
+        {
+            "id": "Fatou定理的证明1",
+            "name": "方法名",
+            "profDetail": "定理详细证明",
+            "needThsisId": [],
+            "who": "belong to whom",
+            "level": "prof",
+            "rawScore": -20,
+            "score": -0.5,
+            "size": 3,
+            "type": "square"
+        },{
+            "id": "有界控制收敛定理",
+            "name": "有界控制收敛定理",
+            "description": "定理叙述",
+            "profIds": ["有界控制收敛定理的证明1"],
+            "usedIn": [],
+            "who": "belong to whom",
+            "level": "thsis",
+            "rawScore": 0,
+            "score": 0.5,
+            "size": 3,
+            "type": "circle"
+        },
+        {
+            "id": "有界控制收敛定理的证明1",
+            "name": "方法名",
+            "profDetail": "定理详细证明",
+            "needThsisId": [],
+            "who": "belong to whom",
+            "level": "prof",
+            "rawScore": -20,
+            "score": -0.5,
+            "size": 3,
+            "type": "square"
+        }
+    ],
+    "directed": false,
+    "multigraph": false
+}
